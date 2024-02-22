@@ -1,7 +1,7 @@
 import csv
 
 # Path to your CSV file
-csv_file_path = 'regression_pred.csv'
+csv_file_path = 'kNN_pred.csv'
 
 # Initialize counters
 count_above_05 = 0
